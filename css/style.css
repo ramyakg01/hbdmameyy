@@ -319,11 +319,13 @@ svg{
         position: relative;
         right: 0;
         top: 0;   
+	    z-index:2;
     }
     .navbar-nav{
         position: relative;
         right: 0;
         top: 0;
+	    z-index:2;
     }
     .bdaytext{
         margin: 0;
@@ -341,7 +343,7 @@ svg{
     }
     svg{
         padding-top: 350px;
-        padding-left: 30px;
+        padding-left: 40px;
         margin: 0;
         width: auto;
         height: auto;
