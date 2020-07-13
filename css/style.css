@@ -342,7 +342,7 @@ svg{
         animation: animateme 5s infinite alternate;
     }
     svg{
-        padding-top: 350px;
+        padding-top: 190%;
         padding-left: 40px;
         margin: 0;
         width: auto;
